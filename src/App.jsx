@@ -2,7 +2,7 @@ import { useState } from 'react'
 import './App.css'
 import { createBrowserRouter, RouterProvider } from 'react-router-dom'
 import Layout from './components/Layout'
-import NavBar from './NavBar'
+import NavBar from './components/NavBar'
 import AboutUsM from './components/AboutusM'
 
 const router = createBrowserRouter([

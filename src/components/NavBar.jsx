@@ -1,5 +1,4 @@
 import React from 'react';
-// import Button from './button';
 import './Navbar.css'
 function NavBar() {
     return (
